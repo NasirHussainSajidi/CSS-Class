@@ -1,0 +1,22 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: 900;
+    font-variant: normal;
+    text-transform: capitalize;
+    background-color: rgb(23, 23, 88);
+    color: white;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    }
+    
+     h2{
+        text-shadow: 3px 3px 3px rgba(14, 21, 228, 0.6);
+        text-align: center; 
+        text-decoration:underline;
+        font-weight: 900;
+        font-style: oblique;
+        background-color: rgb(88, 88, 97);  
+        color: white;   
+        letter-spacing: 2px;
+  }
