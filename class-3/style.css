@@ -1,0 +1,48 @@
+h1{
+    /* background-color: black;
+    color: white; */
+    text-align: center;
+    text-indent: 24px;
+    text-shadow: 10px 10px 10px 10px rgb(34, 39, 34);
+}
+.p1::first-letter{
+    background-color: black;
+    color: white;
+}
+.p2::first-line{
+    background-color: black;
+    color: white;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: red;
+}
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 3px;
+}
+button:hover{
+    background-color: rgb(64, 64, 243);
+    color: white;
+    height: 55px;
+    width: 104px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: 700;
+    font-style: italic;
+    cursor: pointer;
+}
+button:active{
+    background-color: rgb(125, 125, 248);
+    color: white;
+    height: 50px;
+    width: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    font-size: large;
+    
+}
