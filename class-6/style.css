@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#container{
+    height: 100vh;
+    max-width: 200vh;
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    gap: 20px;
+    align-items: center;
+    flex-direction: column-reverse;
+
+}
+.Box{
+    height: 100px;
+    width: 100px;
+    text-align: center;  
+    align-content: center;
+}
+.box1{
+    background-color: blue; 
+
+}
+.box2{
+    background-color: pink;
+    
+}
+.box3{
+
+    background-color: green;
+
+}
+.box4{
+
+    background-color: yellow;  
+
+}
